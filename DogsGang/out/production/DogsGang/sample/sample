@@ -1,0 +1,6 @@
+.root{
+	-fx-background-color:#9E6D36;
+}
+
+#statsView{
+}

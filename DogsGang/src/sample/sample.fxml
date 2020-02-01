@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1400.0" prefWidth="2560.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <HBox fx:id="statsView" prefHeight="100.0" prefWidth="2560.0" />
+      <HBox fx:id="itemList" layoutY="1200.0" prefHeight="200.0" prefWidth="2560.0" />
+      <Pane fx:id="gameView" prefHeight="1400.0" prefWidth="2560.0" />
+   </children>
+</AnchorPane>
